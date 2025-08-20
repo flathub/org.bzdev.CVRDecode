@@ -31,7 +31,7 @@ modules:
      sources:
         - type: archive
           url: https://billzaumen.github.io/cvrdecode/flatpak.tar.gz
-          sha256: 96d73e15dae78bab430ece267cb0ca29d7108b3239d202fff929e1d9332bb7e4
+          sha256: 031f771d65ede1bafca27615eb4573a5972dd6a6b35abcd9ed86491d76b8e099
 finish-args:
      - "--env=PATH=/app/jre/bin:/usr/bin:/app/bin"
      - "--share=network"
